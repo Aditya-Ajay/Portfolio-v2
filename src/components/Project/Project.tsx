@@ -2,6 +2,9 @@ import { Container } from "./styles";
 import githubIcon from "../../assets/github.svg"
 // import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
+import Project1 from "../../assets/Project-1.png"
+import Project2 from "../../assets/Project-2.png"
+import Project3 from "../../assets/Project-3.png"
 import ScrollAnimation from "react-animate-on-scroll";
 
 
@@ -16,17 +19,19 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Serverless-Voting-Application" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/tree/main/%F0%9F%96%BC%EF%B8%8F%20Image%20to%20%F0%9F%8E%A7%20Audio%20Story%20Generator" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
-                <a href="https://vote.vinayaksingh.com" target="_blank" rel="noreferrer">
+                <a href="https://huggingface.co/spaces/adi-123/Image-to-Audio_Story_Generator" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a> </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>AI ENHANCED IMAGE-TO-AUDIO STORY GENERATOR</h3>
+              <div className="body">
+             <img src={Project1} height="200px"/>
+            </div><br/>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>Large Language Models</li> <li>Hugging Face</li> <li>Streamlit</li> </ul> </footer>
           </div>
         </ScrollAnimation>
 
@@ -35,22 +40,21 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/AI-Chatbot-Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Aditya-NeuralNetNinja/Flagship-Projects/tree/main/AI-Powered%20PDF%20Chat%20Assistant" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://huggingface.co/spaces/adi-123/chat-with-multiple-PDFs" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
-              <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
-              </p>
-            </div>
+              <h3>AI-POWERED PDF CHAT ASSISTANT</h3><br/>
+              <img src={Project2} height="200px"/>
+            </div><br/>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
+                <li>RAG</li>
+                <li>Gemini</li>
+                <li>FAISS</li>
                 <li>LangChain</li>
               </ul>
             </footer>
@@ -65,31 +69,29 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/tree/main/Credit%20Risk%20Analysis" target="\_blank" rel="noreferrer">
+                <a  target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/blob/main/Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb" target="\_blank" rel="noreferrer">
+                <a href="https://huggingface.co/spaces/adi-123/detect-rhino/tree/main" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Credit Risk Analysis Project</h3>
-              <p>
-                Developed a highly accurate credit risk classification model using XGBoost, achieving 100% precision, recall, and F1-scores for predicting loan defaults.Implemented rigorous data preprocessing, feature engineering, and hyperparameter tuning on imbalanced credit risk data, employing ensemble methods, cross-validation, and model interpretation techniques.
-              </p>
+            <h3>RHINO DETECTION </h3><br/>
+             <img src={Project3} height="200px"/>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
+                <li>YOLOv8</li>
+                <li>OpenCV</li>
+                <li>Torch Vision</li>
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
+        {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
@@ -115,8 +117,8 @@ export function Project() {
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
-
+        </ScrollAnimation> */}
+{/* 
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
@@ -145,9 +147,9 @@ export function Project() {
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
-        <ScrollAnimation animateIn="flipInX">
+        {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
@@ -172,7 +174,7 @@ export function Project() {
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
