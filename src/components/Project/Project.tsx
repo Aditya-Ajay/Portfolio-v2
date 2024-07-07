@@ -26,7 +26,7 @@ export function Project() {
                 </a> </div>
             </header>
             <div className="body">
-              <h3>AI ENHANCED IMAGE-TO-AUDIO STORY GENERATOR</h3>
+              <h3>AI ENHANCED IMAGE-TO-<br/>AUDIO STORY GENERATOR</h3>
               <div className="body">
              <img src={Project1} height="200px"/>
             </div><br/>
@@ -79,8 +79,8 @@ export function Project() {
             </header>
             <div className="body">
             <h3>RHINO DETECTION </h3><br/>
-             <img src={Project3} height="200px"/>
-            </div>
+             <img src={Project3} height="200px" />
+            </div><br/>
             <footer>
               <ul className="tech-list">
                 <li>YOLOv8</li>
