@@ -21,7 +21,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Data Science | Machine Learning | Deep Learning | Generative AI | Computer Vision | Natural Language Processing <br/><br/>
+          Data Science | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | LLMs | GenAI<br/><br/>
 
 Specialized in: <br/>
 - Data analysis and predictive modeling <br/>
