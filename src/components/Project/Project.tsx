@@ -31,7 +31,13 @@ export function Project() {
              <img src={Project1} height="200px"/>
             </div><br/>
             </div>
-            <footer> <ul className="tech-list"> <li>Large Language Models</li> <li>Hugging Face</li> <li>Streamlit</li> </ul> </footer>
+            <footer>
+              <ul className="tech-list">
+                <li>LLM</li>
+                <li>Hugging Face</li>
+                <li>Streamlit</li>
+              </ul>
+            </footer>
           </div>
         </ScrollAnimation>
 
