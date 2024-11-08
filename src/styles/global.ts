@@ -19,6 +19,60 @@ export const GlobalStyle = createGlobalStyle`
       .logo{
         color: var(--black);
       }
+      /* Styling the main container */
+#contact {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+/* Spacing for the list items */
+.contact-list {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+}
+
+.contact-list li {
+  margin-bottom: 1rem; /* Add space between each list item */
+}
+
+/* Making the Calendly link more attractive */
+.calendly-link {
+  color: #1d72b8;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.2rem 0.5rem;
+  border: 2px solid #1d72b8;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.calendly-link:hover {
+  background-color: #1d72b8;
+  color: white;
+}
+
+/* Contact details layout */
+.contacts {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contact-item img {
+  width: 24px;
+  height: 24px;
+}
+
 
       header.header-fixed{
         transition: 0.5s;
@@ -115,4 +169,4 @@ export const GlobalStyle = createGlobalStyle`
     //   color: var(--green);
     // }
   }
-`
+`;

@@ -40,73 +40,116 @@ Passionate about driving innovation through AI-powered solutions.
           <h3>Here are my main skills:</h3><br/>
           <p>
     <ol>
-        <li>&nbsp;1. Programming and Data Analysis<br/>
+        <li>&nbsp;1. Programming and Scripting Languages<br/>
             <ul>
                 <li>&nbsp;&nbsp;Python</li>
+                <li>&nbsp;&nbsp;Bash</li>
+
+            </ul>
+        </li><br/>
+        <li>&nbsp;2.Databases<br/>
+            <ul>
+                <li>&nbsp;&nbsp;Relational Database (MySQL)</li>
+                <li>&nbsp;&nbsp;VectorDB (FAISS)</li>
+
+            </ul>
+        </li><br/>
+        <li>&nbsp;3. Web Dev & APIs<br/>
+            <ul>
+                <li>&nbsp;&nbsp;Flask</li>
+                <li>&nbsp;&nbsp;Streamlit</li>
+                <li>&nbsp;&nbsp;Postman</li>
+
+            </ul>
+        </li><br/>
+        <li>&nbsp;4. Dashboarding<br/>
+            <ul>
+                <li>&nbsp;&nbsp;Looker Studio</li>
+                <li>&nbsp;&nbsp;Tableau</li>
+                <li>&nbsp;&nbsp;Excel</li>
+
+            </ul>
+        </li><br/>
+        <li>&nbsp;4.Data Analysis & Visualization<br/>
+            <ul>
                 <li>&nbsp;&nbsp;Statistics</li>
                 <li>&nbsp;&nbsp;Numpy</li>
                 <li>&nbsp;&nbsp;Pandas</li>
-                <li>&nbsp;&nbsp;MS Excel</li>
-            </ul>
-        </li><br/>
-        <li>&nbsp;2. Data Visualization<br/>
-            <ul>
+                <li>&nbsp;&nbsp;Numpy</li>
+                <li>&nbsp;&nbsp;Pandas</li>
                 <li>&nbsp;&nbsp;Matplotlib</li>
                 <li>&nbsp;&nbsp;Seaborn</li>
+                <li>&nbsp;&nbsp;Excel</li>
             </ul>
         </li><br/>
-        <li>&nbsp;3. Machine Learning and Deep Learning<br/>
+        <li>&nbsp;5. Machine Learning and Deep Learning<br/>
             <ul>
                 <li>&nbsp;&nbsp;Scikit-Learn</li>
                 <li>&nbsp;&nbsp;Tensorflow</li>
                 <li>&nbsp;&nbsp;PyTorch</li>
                 <li>&nbsp;&nbsp;Keras</li>
+                <li>&nbsp;&nbsp;Optuna</li>
+                <li>&nbsp;&nbsp;Hugging Face</li>
             </ul>
         </li><br/>
-        <li>&nbsp;4. Natural Language Processing / LLMs<br/>
+        <li>&nbsp;6. Natural Language Processing / LLMs<br/>
             <ul>
                 <li>&nbsp;&nbsp;NLTK</li>
-                <li>&nbsp;&nbsp;Transformer based models</li>
-                <li>&nbsp;&nbsp;GPT</li>
+                <li>&nbsp;&nbsp;RNN</li>
+                <li>&nbsp;&nbsp;TF-IDF</li>
+                <li>&nbsp;&nbsp;Word2Vec</li>
+                <li>&nbsp;&nbsp;Doc2Vec</li> 
+            </ul>
+        </li><br/>
+        <li>&nbsp;7. Large Language Models (LLM)<br/>
+            <ul>
+                <li>&nbsp;&nbsp;LangChain, Prompt engineering</li>
+                <li>&nbsp;&nbsp;Quantization</li>
+                <li>&nbsp;&nbsp;Fine-tuning</li>
                 <li>&nbsp;&nbsp;BERT</li>
                 <li>&nbsp;&nbsp;HuggingFace</li>
-                <li>&nbsp;&nbsp;LLMs</li>
-                <li>&nbsp;&nbsp;LangChain</li>
-            </ul>
-        </li><br/>
-        <li>&nbsp;5. Computer Vision<br/>
-            <ul>
-                <li>&nbsp;&nbsp;OpenCV</li>
-                <li>&nbsp;&nbsp;Pillow</li>
-                <li>&nbsp;&nbsp;YOLO</li>
-                <li>&nbsp;&nbsp;HuggingFace</li>
-                <li>&nbsp;&nbsp;Transformer based models</li>
-            </ul>
-        </li><br/>
-        <li>&nbsp;6. Advanced AI Techniques<br/>
-            <ul>
-                <li>&nbsp;&nbsp;GANs</li>
-                <li>&nbsp;&nbsp;Autoencoders</li>
-                <li>&nbsp;&nbsp;LSTM</li>
-                <li>&nbsp;&nbsp;GRU</li>
+                <li>&nbsp;&nbsp;Transformers</li>
+                <li>&nbsp;&nbsp;Ollama</li>
                 <li>&nbsp;&nbsp;Retrieval Augmented Generation (RAG)</li>
                 <li>&nbsp;&nbsp;DSPy</li>
             </ul>
-        </li> <br/>
-        <li>&nbsp;7. Data Engineering and Workflow<br/>
+        </li><br/>
+        <li>&nbsp;8.Computer Vision<br/>
             <ul>
-                <li>&nbsp;&nbsp;Apache Airflow</li>
-                <li>&nbsp;&nbsp;VectorDB</li>
-                <li>&nbsp;&nbsp;MySQL</li>
+                <li>&nbsp;&nbsp;Object Detection</li>
+                <li>&nbsp;&nbsp;Object Tracking (BotSort, ByteTrack)</li>
+                <li>&nbsp;&nbsp;CNN</li>
+                <li>&nbsp;&nbsp;YOLO</li>
+                <li>&nbsp;&nbsp;GANs</li>
+                <li>&nbsp;&nbsp;UNet</li>
+                <li>&nbsp;&nbsp;Autoencoders</li>
+                <li>&nbsp;&nbsp;Stable Diffusion</li>
+                <li>&nbsp;&nbsp;Vision Transformer</li>
+                <li>&nbsp;&nbsp;Detectron2</li>
+                <li>&nbsp;&nbsp;Pytesseract</li>
+                <li>&nbsp;&nbsp;OpenCV</li>
+                <li>&nbsp;&nbsp;Pillow</li>
+            </ul>
+        </li> <br/>
+        <li>&nbsp;9.Time Series Forecasting<br/>
+            <ul>
+                <li>&nbsp;&nbsp;Fbprophet</li>
+                <li>&nbsp;&nbsp;LSTM</li>
+                <li>&nbsp;&nbsp;Random Forest</li>
+                <li>&nbsp;&nbsp;XGBoost</li>
             </ul>
         </li><br/>
-        <li>&nbsp;8. Cloud and DevOps<br/>
+        <li>&nbsp;10. Cloud and MLOps<br/>
             <ul>
                 <li>&nbsp;&nbsp;Azure</li>
-                <li>&nbsp;&nbsp;AWS</li>
+                <li>&nbsp;&nbsp;AWS AWS (EC2, RDS, S3)</li>
                 <li>&nbsp;&nbsp;Docker</li>
-                <li>&nbsp;&nbsp;GitHub</li>
+                <li>&nbsp;&nbsp;Git/GitHub</li>
                 <li>&nbsp;&nbsp;Streamlit</li>
+                <li>&nbsp;&nbsp;GCP</li>
+                <li>&nbsp;&nbsp;MLflow</li>
+                <li>&nbsp;&nbsp;Jenkins</li>
+                <li>&nbsp;&nbsp;Apache AirFlow</li>
             </ul>
         </li><br/>
     </ol>
