@@ -6,7 +6,7 @@ export function Contact() {
   return (
     <Container id="contact" style={{ padding: "2rem", maxWidth: "800px", margin: "auto", color: "white", fontFamily: "Arial, sans-serif" }}>
       <header>
-        <h2 style={{ fontSize: "2rem", marginBottom: "1rem" , color : "#23CE6B"}}>Contact</h2>
+        <h2 style={{  marginTop : "3rem" , marginBottom: "3.5rem", color : "white"}}>Contact</h2>
         <h3 style={{ fontSize: "1.5rem", marginBottom: "1.5rem" }}>Ready to Elevate Your AI/ML Journey or Career?</h3>
         <ul className="contact-list" style={{ marginTop: "1rem", marginBottom: "2rem", paddingLeft: "1.5rem" }}>
           <li style={{ marginBottom: "1rem" }}><strong>Data Science Interview Prep:</strong> Get ready to land your next role</li>
